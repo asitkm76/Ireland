@@ -15,6 +15,7 @@ title: Strawberry Hill National School
 **Student Count**: 335
 
 **Website**: <https://www.schooldays.ie/school/strawberry-hill-national-school-rollnumber-20553G>
+ https://strawberryhillns.ie 
 
 **School's overall airborne virus protection grade (0-5)**: 0
 
